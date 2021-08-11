@@ -753,23 +753,7 @@ section {
   opacity: 1;
 }
 
-.clients .owl-nav, .clients .owl-dots {
-  margin-top: 5px;
-  text-align: center;
-}
 
-.clients .owl-dot {
-  display: inline-block;
-  margin: 0 5px;
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-  background-color: #ddd !important;
-}
-
-.clients .owl-dot.active {
-  background-color: #5cb874 !important;
-}
 
 /*--------------------------------------------------------------
 # Services
@@ -778,7 +762,7 @@ section {
   text-align: center;
   padding: 70px 20px 80px 20px;
   transition: all ease-in-out 0.3s;
-  background: #fff;
+  background: ;
   box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.1);
 }
 
@@ -964,7 +948,7 @@ section {
   margin-bottom: 20px;
   box-shadow: 0px 0px 12px 0px rgba(34, 34, 34, 0.07);
   padding: 30px 20px;
-  background: #fff;
+  background:#9FE2BF;
 }
 
 .team .member img {
@@ -977,6 +961,7 @@ section {
   font-weight: 700;
   margin-bottom: 2px;
   font-size: 18px;
+  color: black;
 }
 
 .team .member span {
@@ -989,7 +974,7 @@ section {
   padding-top: 10px;
   font-size: 14px;
   font-style: italic;
-  color: #aaaaaa;
+  
 }
 
 .team .member .social {
@@ -997,7 +982,7 @@ section {
 }
 
 .team .member .social a {
-  color: #919191;
+  color: #003300;
   transition: 0.3s;
 }
 
